@@ -1,0 +1,132 @@
+body {
+    background-color: white;
+}
+
+p {
+    font-family: Verdana, Arial, Sans-Serif;
+    color: black;    
+}
+
+span {
+    width=20%
+}
+
+h1 {
+    background-color: whitesmoke;
+    border-radius: 5px;
+    text-align: left;
+    font-family: Verdana, Arial, Sans-Serif;
+    color: black;
+    width: auto;
+    font-size: 14pt;    
+    font-weight: 100;
+    margin: 10px;
+    padding-left: 15px;
+}
+
+div {
+    background-color: white;
+    font-family: Verdana, Arial, Sans-Serif;
+    font-size: 10pt;
+
+}
+
+.test {
+    height: 40px;
+    width: 40px;
+    background-color: aquamarine
+}
+
+.button {
+    background-color: grey;
+    color: white;
+    width: 70px;
+    height: 15px;
+    text-align: center;
+    font-size: 9pt;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    
+}
+
+.buttonActive {
+    background-color: darkgray;
+    
+}
+
+.buttonAll {
+  background-color: grey;
+  color: white;
+  width: 10%;
+  height: 40px;
+  text-align: center;
+  font-size: 11pt;
+  margin-right: 46%;
+  padding: 5px;
+  border-radius: 5px;
+  display: inline-block;
+    
+
+}
+
+.characteristic {
+  background-color: lightgray;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 8px;
+  width: auto;
+  height: 20%;
+  display: inline-block;
+}
+
+.name {
+  margin-left: 5%;
+  margin-right: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-size: 12pt;
+  display: inline-block;
+  width: 35%;
+}
+
+#chartext{
+  margin-top: 2%;
+  width: 80%;
+  background-color:aliceblue;
+  line-height: 2;
+}
+    
+
+#text {
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Verdana, Arial, Sans-Serif;
+    color: black;
+    width: 200px;
+    height: 25px;
+}
+
+#form {
+    background-color: white;
+    text-align: left;
+    font-family: Verdana, Arial, Sans-Serif;
+    color: black;
+    margin: 5px;
+}
+
+input {
+  width: 100px;
+  font-family: Verdana, Arial, Sans-Serif;
+  
+}
+
+.nameInput {
+  width: 200px;
+}
+
+select {
+  font-family: Verdana, Arial, Sans-Serif;
+}
